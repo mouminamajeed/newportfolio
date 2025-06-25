@@ -191,6 +191,13 @@ export const projects = [
     video: "/Rootforwings.mp4",
     link: "https://rootforwings.com/"
   },
+  {
+    id: 19,
+    title: "Broucher Design",
+    des: "Designed a brochure for a holistic wellness center in Kashmir offering modern and traditional therapies—from hijama and chiropractic care to fast-track tattoo removal.",
+    video: "/DrBasitBroucher.mp4",
+    link: "/new-broucher-design-for-dr-basit.mp4"
+  },
 ];
 
 export const testimonials = [
