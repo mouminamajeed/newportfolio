@@ -205,6 +205,13 @@ export const projects = [
     img: "/AlshiraLetterHead&Logo.png",
     link: "/AlshiraLetterHead&Logo.png"
   },
+  {
+    id: 21,
+    title: "Logo Design",
+    des: "Designed a logo for a Designer Brand- Kashmir Only.",
+    img: "/kashmir.png",
+    link: "/kashmir.png"
+  },
 ];
 
 export const testimonials = [
