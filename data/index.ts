@@ -198,6 +198,13 @@ export const projects = [
     video: "/DrBasitBroucher.mp4",
     link: "/new-broucher-design-for-dr-basit.mp4"
   },
+  {
+    id: 20,
+    title: "Logo and Letterhead Design",
+    des: "Designed a logo and letterhead for a Travel Agency-Al Shira.",
+    img: "/AlshiraLetterHead&Logo.png",
+    link: "/AlshiraLetterHead&Logo.png"
+  },
 ];
 
 export const testimonials = [
